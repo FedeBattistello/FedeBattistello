@@ -1,16 +1,24 @@
-## Hi there 👋
+## 💠 Presentacion 💠
 
-<!--
-**FedeBattistello/FedeBattistello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buenas, soy Federico Battistello. Actualmente soy **Tecnico en Computacion** y estoy terminando el Secundario en la escuela ET3 Maria Sanchez de Thompson.
 
-Here are some ideas to get you started:
+- Mi objetivo es poder empezar a desarrollarme laboralmente y con experiencia en el mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💠 Repositorios Actuales 💠
+
+### Rsa Visual
+RSA Visual es una aplicación, **en proceso**, que utiliza React para explicar el algoritmo de cifrado RSA de forma interactiva.
+
+> [!Note]
+> La mayor parte de mi experiencia y desarrollo esta en las organizaciones FrefLabs y Ixion Systems. Dentro de FrefLabs, se desarrollo un sistema distribuido de entrenamiento y predicción bursátil basado en redes neuronales artificiales para las materias de Análisis de Sistemas, Laboratorio de POO y Administración y Gestión de Bases de Datos.
+
+## 💠 Tecnologias que utilizo 💠
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,discord,bots,discordjs,figma,github,lua,mysql,py,qt,vscode,&perline=14" />
+  </a>
+</p>
+
+## 💠 Contacto 💠
+Email: battistellofede@gmail.com
