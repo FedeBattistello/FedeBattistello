@@ -1,6 +1,6 @@
 ## 💠 Presentacion 💠
 
-Buenas, soy Federico Battistello. Actualmente soy **Tecnico en Computacion** y estoy terminando el Secundario en la escuela ET3 Maria Sanchez de Thompson.
+Buenas, soy Federico Battistello. Actualmente soy **Tecnico en Computacion** y tengo 18 años.
 
 - Mi objetivo es poder empezar a desarrollarme laboralmente y con experiencia en el mundo real.
 
